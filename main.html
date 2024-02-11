@@ -5,10 +5,30 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Be My Valentines</title>
+    <title>Be My Valentine</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+    <!-- Main Content -->
+    <div class="container">
+        <div class="content">
+            <!-- Main Text and Gif -->
+            <h1 id="mainTxt">Will you be my Valentine?</h1>
+            <div class="gif">
+                <img id="mainImg" src="https://media.tenor.com/OzNPe52enwwAAAAi/mochi-cat-love.gif" alt="Cute Cat Gif">
+            </div>
+            <!-- Buttons -->
+            <div class="buttons">
+                <button id="yesButton" onclick="yes()">Yes</button>
+                <button id="noButton" onmouseover="moveNoButton()" onclick="moveNoButton()">No</button>
+            </div>
+        </div>
+    </div>
+    <!-- Footer for Copyright Purposes -->
+    <footer>
+        <p>&copy; Bryan Witherspoon</p>
+    </footer>
+    <!-- Script -->
+    <script src="script.js"></script>
 </body>
 </html>
