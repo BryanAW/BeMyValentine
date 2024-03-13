@@ -1,10 +1,10 @@
-# Be My Valentine
+# Be My Valentine :heart:
 
-This project is a simple and sweet way to propose to your partner to be your Valentine. It's a web page that displays a cute message and a gif, asking the question, "Will you be my Valentine?".
+This project is a simple and sweet way to propose to your partner to be your Valentine. It's a web page that displays a cute message and a GIF, asking the question, "Will you be my Valentine?".
 
 ## How it Works
 
-The page presents two buttons to the user: "Yes" and "No". The "Yes" button will confirm the acceptance, while the "No" button playfully moves around the page when the user tries to click on it.
+The page presents two buttons to the user: "Yes" and "No". The "Yes" button will confirm the acceptance, while the "No" button playfully moves around the page and changes the displayed GIF when the user tries to click on it.
 
 ## Usage
 
